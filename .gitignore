@@ -7,5 +7,6 @@
 #Ignore zip files
 *.zip
 
-#Ignore the Hawaii download
+#Ignore downloaded files
 NHD_H_Hawaii*
+data/golf*
