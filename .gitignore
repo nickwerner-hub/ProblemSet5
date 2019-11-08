@@ -1,0 +1,11 @@
+#Ignore checkpoints
+.ipynb_checkpoints/*
+
+#Ignore keys
+*-KEY.ipynb
+
+#Ignore zip files
+*.zip
+
+#Ignore the Hawaii download
+NHD_H_Hawaii*
