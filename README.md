@@ -8,14 +8,10 @@ Date: Fall 2019
 
 This problem set is comprised as a set of exercises applying the concepts we have learned in class. In fact, many exercises are direct repeats of those exercises with a few minor modifications. 
 
-## Section 1 - Accessing data sets using Python
+Complete the following notebooks: 
 
-## Section 2 - Web-services and REST
+- [ ]  1-Accessing-data.ipynb
+- [ ] 2-Web-services-and-REST-APIs.ipynb
+- [ ] 3-ArcGIS-Python-API.ipynb
 
-Section 3 - Cloud-based GIS with the ArcGIS Python API
-
-Section 4 - Cloud-based GIS with Google Earth Engine
-
-Section 5 - Scientific data structures: Numpy, Pandas, and GeoPandas
-
-Section 6 - 
+When complete, zip the workspace and submit to Sakai. 
